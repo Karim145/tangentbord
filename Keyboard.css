@@ -1,0 +1,183 @@
+#forstaraden{
+  width: 95vw;
+  height: 50px;
+}
+
+.rad1{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#Esc{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+#andraraden{
+  width: 95vw;
+  height: 50px;
+}
+
+.rad2{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+    margin-bottom: 5px;
+  }
+
+
+#trejderaden{
+  width: 95vw;
+  height: 50px;
+}
+
+.rad3{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#Enter{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 15vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+
+#fjarderaden{
+  width: 95vw;
+  height: 50px;
+}
+
+.rad4{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+
+}
+
+#femteraden{
+  width: 95vw;
+  height: 50px;
+}
+
+.rad5{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+#shift{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 116px;
+  color: white;
+  font-size:13px
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#Up{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+
+}
+
+
+
+#sjatteraden{
+  width: 95vw;
+  height: 50px;
+}
+
+.rad6{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: black;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+#space{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 24.5vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#Left{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#Down{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+#right{
+  margin-top: 5px;
+  margin-left: 10px;
+  background-color: red;
+  width: 4vw;
+  height: 7vh;
+  color: white;
+  display: inline-block;
+  margin-bottom: 5px;
+}
